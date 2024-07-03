@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Donate
+USDT(TRC20): TTzgWS7UuN9QXUsTHCJn7e4PJSnbLXGHCr
